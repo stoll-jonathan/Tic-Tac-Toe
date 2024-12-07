@@ -1,0 +1,3 @@
+This is a console based 4x4 tic-tac-toe game that requires only python to be installed. Once python is installed, the program can be run with the command "python tic-tac-toe.py". The Tic-Tac-Toe folder also contains a video of the game running.
+
+No outside references were used for this project.
